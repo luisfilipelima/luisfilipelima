@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá! Eu sou o Luís Filipe 
 
-<!--
-**luisfilipelima/luisfilipelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hoje estou trabalhando com Python 💻
+- Atualmente estou estudando python voltado para RPA, análise de dados , inteligência artificial 👨‍💻
+- Aprendendo bibliotecas como: Selenium , Pyautogui , Pandas , Plotly 📚
 
-Here are some ideas to get you started:
+```python
+sobre_mim = {
+  'Nome'     : "Luís Filipe",
+  'Curso'    : "Análise e desenvolvimento de sistemas",
+  'Estudos'  : "Uninassau",
+  'Local'    : "Recife-PE"
+}
+```
+## **GitHub Estatísticas**
+<div>
+ <center>
+<a href="https://github.com/luisfilipelima">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipelima&layout=compact&langs_count=7&theme=dracula">
+</a>
+<a href="https://github.com/luisfilipelima">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luisfilipelima&show_icons=true&theme=dracula&count_private=true">
+</a>
+  </center>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
